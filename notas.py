@@ -17,3 +17,5 @@ for usuario in usuarios:
         print(usuario["nombre"], "sacó", usuario["nota"], "y GANÓ")
     else:
         print(usuario["nombre"], "sacó", usuario["nota"], "y PERDIÓ")
+
+# quiero ver los cambios        
